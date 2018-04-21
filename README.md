@@ -10,9 +10,8 @@
 ## Technology stack
 
 1. **ReactJs (v16).**
-2. **Redux.**
-3. **Webpack. (All loaders, plugins and dependencies you can see in package.json file)**
-4. **Express node server.**
-5. **Locall storage to save data.**
+2. **Webpack. (All loaders, plugins and dependencies you can see in package.json file)**
+3. **Express node server.**
+4. **Locall storage to save data.**
 
 
